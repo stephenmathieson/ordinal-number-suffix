@@ -1,0 +1,32 @@
+{
+  "name": "oridinal-number-suffix",
+  "version": "0.0.0",
+  "description": "add suffixes to numbers (1st, 33rd, etc.)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "stephen mathieson",
+  "license": "MIT",
+  "dependencies": {
+    "better-assert": "~1.0.0",
+    "mocha": "~1.12.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/ordinal-number-suffix.git"
+  },
+  "keywords": [
+    "number",
+    "ordinal"
+  ],
+  "bugs": {
+    "url": "https://github.com/stephenmathieson/ordinal-number-suffix/issues"
+  }
+}
