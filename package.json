@@ -1,6 +1,6 @@
 {
   "name": "oridinal-number-suffix",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "add suffixes to numbers (1st, 33rd, etc.)",
   "main": "index.js",
   "directories": {

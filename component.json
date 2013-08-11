@@ -2,8 +2,8 @@
   "name": "ordinal-number-suffix",
   "repo": "stephenmathieson/ordinal-number-suffix",
   "description": "add suffixes to numbers (1st, 33rd, etc.)",
-  "version": "0.0.1",
-  "keywords": [],
+  "version": "0.1.0",
+  "keywords": [ "number", "ordinal", "suffix" ],
   "dependencies": {},
   "development": {
     "component/assert": "*"
