@@ -11,12 +11,10 @@
   },
   "author": "stephen mathieson",
   "license": "MIT",
-  "dependencies": {
-    "better-assert": "~1.0.0",
-    "mocha": "~1.12.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.12.0"
+    "should": "~2.0.2",
+    "mocha": "~1.14.0"
   },
   "repository": {
     "type": "git",
