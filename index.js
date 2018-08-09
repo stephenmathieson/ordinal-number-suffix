@@ -18,6 +18,7 @@ exports = module.exports = function (n) {
  * @return {String}
  */
 exports.suffix = function (n) {
+  n %= 100
   return Math.floor(n / 10) === 1
       ? 'th'
       : (n % 10 === 1
